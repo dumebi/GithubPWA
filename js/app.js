@@ -9,15 +9,6 @@
         ].join('-');
     };
 
-    // const data = {
-    //   full_name: 'owner/repository',
-    //   language: 'JavaScript',
-    //   stargazers_count: 250,
-    //   forks: 19,
-    //   description: 'What the project is about',
-    //   html_url: ''
-    // };
-
     const dates = {
         startDate: function() {
             const startDate = new Date();
